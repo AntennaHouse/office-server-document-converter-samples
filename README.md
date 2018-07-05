@@ -1,4 +1,4 @@
-Additional API samples for OSDC :  https://www.rainbowpdf.com/
+Additional API samples for Office Server Document Converter :  https://www.rainbowpdf.com/
 
 ----
 
